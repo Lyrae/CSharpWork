@@ -1,0 +1,10 @@
+D:\CSharpWork\FormsCalculator\FormsCalculator\bin\Debug\FormsCalculator.exe.config
+D:\CSharpWork\FormsCalculator\FormsCalculator\bin\Debug\FormsCalculator.exe
+D:\CSharpWork\FormsCalculator\FormsCalculator\bin\Debug\FormsCalculator.pdb
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.csprojAssemblyReference.cache
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.Form1.resources
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.Properties.Resources.resources
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.csproj.GenerateResource.cache
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.csproj.CoreCompileInputs.cache
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.exe
+D:\CSharpWork\FormsCalculator\FormsCalculator\obj\Debug\FormsCalculator.pdb

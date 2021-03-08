@@ -1,0 +1,12 @@
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.exe
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.deps.json
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.json
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.dev.json
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.dll
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfo.cs
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.dll
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+D:\CSharpWork\ConsoleCalculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.genruntimeconfig.cache
