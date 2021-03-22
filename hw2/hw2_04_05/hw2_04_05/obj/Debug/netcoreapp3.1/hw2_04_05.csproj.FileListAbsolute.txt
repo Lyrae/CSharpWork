@@ -1,0 +1,13 @@
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\bin\Debug\netcoreapp3.1\hw2_04_05.exe
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\bin\Debug\netcoreapp3.1\hw2_04_05.deps.json
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\bin\Debug\netcoreapp3.1\hw2_04_05.runtimeconfig.json
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\bin\Debug\netcoreapp3.1\hw2_04_05.runtimeconfig.dev.json
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\bin\Debug\netcoreapp3.1\hw2_04_05.dll
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\bin\Debug\netcoreapp3.1\hw2_04_05.pdb
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.csprojAssemblyReference.cache
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.AssemblyInfoInputs.cache
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.AssemblyInfo.cs
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.csproj.CoreCompileInputs.cache
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.dll
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.pdb
+D:\CSharpWork\hw2\hw2_04_05\hw2_04_05\obj\Debug\netcoreapp3.1\hw2_04_05.genruntimeconfig.cache
