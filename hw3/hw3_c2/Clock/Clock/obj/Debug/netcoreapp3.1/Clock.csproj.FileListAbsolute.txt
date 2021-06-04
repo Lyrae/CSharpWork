@@ -1,0 +1,13 @@
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+D:\CSharpWork\hw3\hw3_c2\Clock\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

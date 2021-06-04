@@ -1,0 +1,12 @@
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\bin\Debug\netcoreapp3.1\List.exe
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\bin\Debug\netcoreapp3.1\List.deps.json
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\bin\Debug\netcoreapp3.1\List.dll
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\bin\Debug\netcoreapp3.1\List.pdb
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\obj\Debug\netcoreapp3.1\List.dll
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\obj\Debug\netcoreapp3.1\List.pdb
+D:\CSharpWork\hw3\hw3_c1\ConsoleApp1\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
