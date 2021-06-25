@@ -1,0 +1,7 @@
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.csprojAssemblyReference.cache
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.Form1.resources
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.Form2.resources
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.Form3.resources
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.Properties.Resources.resources
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.csproj.GenerateResource.cache
+D:\c#作业\CSharpHomeWork-master\CSharpHomeWork-master\Week 11-OrderManagementEF\OrderManagementForm\OrderManagementForm\obj\Debug\OrderManagementForm.csproj.CoreCompileInputs.cache
